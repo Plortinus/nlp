@@ -1,0 +1,61 @@
+id,seed_word,emotion_labels,polarity_labels,primary_emotion,generated_sentence,language,llm_model,prompt_version,generation_round
+0,blob,"['disgust', 'fear']",['negative'],disgust,The sight of the green blob on my kitchen counter was utterly disturbing.,en,llama-3.1-8b-instant,v2-batch,1
+1,blob,"['disgust', 'fear']",['negative'],disgust,The disgusting green blob had somehow formed on my favorite shirt overnight.,en,llama-3.1-8b-instant,v2-batch,1
+2,horrific,"['anger', 'disgust', 'fear', 'sadness']",['negative'],disgust,The horrific images on the news were enough to make me feel disgusted.,en,llama-3.1-8b-instant,v2-batch,1
+3,horrific,"['anger', 'disgust', 'fear', 'sadness']",['negative'],disgust,She had to watch the horrific video of the accident over and over again.,en,llama-3.1-8b-instant,v2-batch,1
+4,lunatic,"['anger', 'disgust', 'fear']",['negative'],disgust,The neighbors were worried about the lunatic who lived in the house next door.,en,llama-3.1-8b-instant,v2-batch,1
+5,lunatic,"['anger', 'disgust', 'fear']",['negative'],disgust,The idea of that lunatic getting loose in the city was terrifying to everyone.,en,llama-3.1-8b-instant,v2-batch,1
+6,corrupting,"['anger', 'disgust', 'fear', 'sadness']",['negative'],disgust,The corrupting influence of money in politics was a major issue in the country.,en,llama-3.1-8b-instant,v2-batch,1
+7,corrupting,"['anger', 'disgust', 'fear', 'sadness']",['negative'],disgust,The corrupting effects of social media on our mental health were becoming apparent.,en,llama-3.1-8b-instant,v2-batch,1
+8,humiliating,['disgust'],['negative'],disgust,The humiliating experience of failing the exam was a tough lesson to learn.,en,llama-3.1-8b-instant,v2-batch,1
+9,humiliating,['disgust'],['negative'],disgust,The humiliating way he got fired from his job was all over the news.,en,llama-3.1-8b-instant,v2-batch,1
+10,deceive,"['anger', 'disgust', 'sadness']",['negative'],disgust,The politician's scandalous actions aimed to deceive the public and gain their trust.,en,llama-3.1-8b-instant,v2-batch,1
+11,deceive,"['anger', 'disgust', 'sadness']",['negative'],disgust,Her deceitful behavior was exposed when she tried to deceive her boss about the project's deadline.,en,llama-3.1-8b-instant,v2-batch,1
+12,reflux,['disgust'],['negative'],disgust,The sour taste in my mouth was a result of the spicy food causing acid reflux.,en,llama-3.1-8b-instant,v2-batch,1
+13,reflux,['disgust'],['negative'],disgust,"After eating too quickly, she experienced a burning sensation due to stomach acid reflux.",en,llama-3.1-8b-instant,v2-batch,1
+14,leer,['disgust'],['negative'],disgust,The creepy guy's leering stare made me feel uncomfortable at the party.,en,llama-3.1-8b-instant,v2-batch,1
+15,leer,['disgust'],['negative'],disgust,Her brother's lustful leer was a constant reminder of his inappropriate behavior.,en,llama-3.1-8b-instant,v2-batch,1
+16,swarm,['disgust'],[],disgust,"The swarm of bees chased us out of the garden, causing quite a commotion.",en,llama-3.1-8b-instant,v2-batch,1
+17,swarm,['disgust'],[],disgust,"The massive swarm of locusts devastated the crops, leaving the farmer with nothing.",en,llama-3.1-8b-instant,v2-batch,1
+18,prick,"['anger', 'disgust', 'fear', 'surprise']",['negative'],disgust,The thorn on the rose bush was painful to touch and might prick my skin.,en,llama-3.1-8b-instant,v2-batch,1
+19,prick,"['anger', 'disgust', 'fear', 'surprise']",['negative'],disgust,The tiny needle in the sewing kit was sharp enough to prick my finger.,en,llama-3.1-8b-instant,v2-batch,1
+20,elf,"['anger', 'disgust', 'fear']",[],disgust,The creepy elf doll in the attic had a weird presence that filled me with disgust.,en,llama-3.1-8b-instant,v2-batch,1
+21,elf,"['anger', 'disgust', 'fear']",[],disgust,"A disturbing elf costume made from dead animal hides was put on display, repulsing everyone.",en,llama-3.1-8b-instant,v2-batch,1
+22,punishment,"['anger', 'disgust', 'fear']",['negative'],disgust,"The cruel punishment meted out to the child was a severe beating, causing disgust in everyone.",en,llama-3.1-8b-instant,v2-batch,1
+23,punishment,"['anger', 'disgust', 'fear']",['negative'],disgust,Watching the video of the brutal punishment inflicted on the prisoner left me feeling repulsed.,en,llama-3.1-8b-instant,v2-batch,1
+24,poison,"['anger', 'disgust', 'fear', 'sadness']",['negative'],disgust,The discovery of the poisonous mushroom in my salad was a disgusting surprise.,en,llama-3.1-8b-instant,v2-batch,1
+25,poison,"['anger', 'disgust', 'fear', 'sadness']",['negative'],disgust,The toxic poison in the snake's fangs was a disgusting thing to witness.,en,llama-3.1-8b-instant,v2-batch,1
+26,gruff,"['anger', 'disgust']",['negative'],disgust,"The gruff, menacing voice of the stranger in the dark made me feel disgust and fear.",en,llama-3.1-8b-instant,v2-batch,1
+27,gruff,"['anger', 'disgust']",['negative'],disgust,"The gruff, coarse language used by the sailor was disgusting to the polite officer.",en,llama-3.1-8b-instant,v2-batch,1
+28,intolerant,"['anger', 'disgust', 'fear', 'sadness']",['negative'],disgust,The intolerant and bigoted views of the extremist group filled me with disgust and anger.,en,llama-3.1-8b-instant,v2-batch,1
+29,intolerant,"['anger', 'disgust', 'fear', 'sadness']",['negative'],disgust,The intolerant attitude of the wealthy elite towards the poor was a disgusting thing to witness.,en,llama-3.1-8b-instant,v2-batch,1
+30,confined,"['anger', 'disgust', 'fear', 'sadness']",['negative'],disgust,The smell from the dumpster made me feel confined in my own apartment.,en,llama-3.1-8b-instant,v2-batch,1
+31,confined,"['anger', 'disgust', 'fear', 'sadness']",['negative'],disgust,Being confined to that cluttered room for weeks made me feel disgusted.,en,llama-3.1-8b-instant,v2-batch,1
+32,excrement,['disgust'],['negative'],disgust,The public restroom's poor maintenance left a trail of excrement on the floor.,en,llama-3.1-8b-instant,v2-batch,1
+33,excrement,['disgust'],['negative'],disgust,The disgusting smell of human excrement filled the entire hallway.,en,llama-3.1-8b-instant,v2-batch,1
+34,impurity,['disgust'],['negative'],disgust,The polluted water source was a symbol of the impurity in our environment.,en,llama-3.1-8b-instant,v2-batch,1
+35,impurity,['disgust'],['negative'],disgust,The chef was outraged by the impurity in the raw ingredients.,en,llama-3.1-8b-instant,v2-batch,1
+36,elimination,"['anger', 'disgust', 'fear', 'sadness']",['negative'],disgust,The process of elimination led us to the source of the contamination.,en,llama-3.1-8b-instant,v2-batch,1
+37,elimination,"['anger', 'disgust', 'fear', 'sadness']",['negative'],disgust,The unhygienic conditions made the elimination of the disease almost impossible.,en,llama-3.1-8b-instant,v2-batch,1
+38,thoughtless,"['anger', 'disgust']",['negative'],disgust,The thoughtless decision to litter the park caused a huge mess.,en,llama-3.1-8b-instant,v2-batch,1
+39,thoughtless,"['anger', 'disgust']",['negative'],disgust,The thoughtless dumping of chemical waste harmed the aquatic life.,en,llama-3.1-8b-instant,v2-batch,1
+40,recklessness,"['anger', 'disgust', 'fear', 'surprise']",['negative'],disgust,The reckless driver's actions were a perfect embodiment of reckless abandon on the highway.,en,llama-3.1-8b-instant,v2-batch,1
+41,recklessness,"['anger', 'disgust', 'fear', 'surprise']",['negative'],disgust,Her reckless behavior in the office meeting left everyone feeling uncomfortable and appalled.,en,llama-3.1-8b-instant,v2-batch,1
+42,janitor,['disgust'],[],disgust,The janitor's task was to clean up the disgusting mess left behind by the previous night's party.,en,llama-3.1-8b-instant,v2-batch,1
+43,janitor,['disgust'],[],disgust,"As a janitor, he had to deal with the disgusting smell of rotten trash every day.",en,llama-3.1-8b-instant,v2-batch,1
+44,hellish,"['anger', 'disgust', 'fear', 'sadness']",['negative'],disgust,The hellish conditions in the war zone were a testament to the brutality of human conflict.,en,llama-3.1-8b-instant,v2-batch,1
+45,hellish,"['anger', 'disgust', 'fear', 'sadness']",['negative'],disgust,The hellish heat of the desert sun made it unbearable to venture outside during the day.,en,llama-3.1-8b-instant,v2-batch,1
+46,nicotine,['disgust'],['negative'],disgust,The smell of nicotine from his grandfather's cigar was overwhelming and disgusting to her.,en,llama-3.1-8b-instant,v2-batch,1
+47,nicotine,['disgust'],['negative'],disgust,"The nicotine addiction had taken over his life, leaving him feeling weak and helpless.",en,llama-3.1-8b-instant,v2-batch,1
+48,butcher,"['anger', 'disgust', 'fear']",['negative'],disgust,The sight of the butcher's bloody hands after a long day of work was deeply disturbing.,en,llama-3.1-8b-instant,v2-batch,1
+49,butcher,"['anger', 'disgust', 'fear']",['negative'],disgust,The butcher's shop was a place of unsanitary conditions and disgusting smells.,en,llama-3.1-8b-instant,v2-batch,1
+50,hostile,"['anger', 'disgust', 'fear']",['negative'],disgust,The hostile environment at the zoo made me feel uneasy with the monkeys.,en,llama-3.1-8b-instant,v2-batch,1
+51,hostile,"['anger', 'disgust', 'fear']",['negative'],disgust,The hostile tone of his voice suggested he was not open to compromise.,en,llama-3.1-8b-instant,v2-batch,1
+52,bankruptcy,"['anger', 'disgust', 'fear', 'sadness']",['negative'],disgust,The company filed for bankruptcy after failing to meet its financial obligations.,en,llama-3.1-8b-instant,v2-batch,1
+53,bankruptcy,"['anger', 'disgust', 'fear', 'sadness']",['negative'],disgust,The news of the city's bankruptcy spread panic among the citizens.,en,llama-3.1-8b-instant,v2-batch,1
+54,murder,"['anger', 'disgust', 'fear', 'sadness', 'surprise']",['negative'],disgust,The murder scene was gruesome and left a lasting impact on the detective.,en,llama-3.1-8b-instant,v2-batch,1
+55,murder,"['anger', 'disgust', 'fear', 'sadness', 'surprise']",['negative'],disgust,"The suspect was questioned about the murder, but denied any involvement.",en,llama-3.1-8b-instant,v2-batch,1
+56,scream,"['anger', 'disgust', 'fear', 'surprise']",['negative'],disgust,The sound of a woman scream in the night sent chills down his spine.,en,llama-3.1-8b-instant,v2-batch,1
+57,scream,"['anger', 'disgust', 'fear', 'surprise']",['negative'],disgust,The scream of the car tires as it skidded on the wet road was terrifying.,en,llama-3.1-8b-instant,v2-batch,1
+58,intrusive,"['anger', 'disgust', 'fear', 'surprise']",['negative'],disgust,The intrusive thoughts about the accident lingered in her mind for weeks.,en,llama-3.1-8b-instant,v2-batch,1
+59,intrusive,"['anger', 'disgust', 'fear', 'surprise']",['negative'],disgust,The intrusive noise from the neighboring apartment was driving her crazy.,en,llama-3.1-8b-instant,v2-batch,1

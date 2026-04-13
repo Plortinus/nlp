@@ -1,0 +1,61 @@
+id,seed_word,emotion_labels,polarity_labels,primary_emotion,generated_sentence,language,llm_model,prompt_version,generation_round
+0,fiesta,"['anticipation', 'joy', 'surprise', 'trust']",['positive'],anticipation,The local band announced a surprise fiesta at the town square tonight.,en,llama-3.1-8b-instant,v2-batch,1
+1,fiesta,"['anticipation', 'joy', 'surprise', 'trust']",['positive'],anticipation,I'm planning an epic fiesta with my friends at the beach this weekend.,en,llama-3.1-8b-instant,v2-batch,1
+2,cove,"['anticipation', 'disgust', 'fear', 'joy']",['positive'],anticipation,My family is excited to visit the secluded cove on the island tomorrow.,en,llama-3.1-8b-instant,v2-batch,1
+3,cove,"['anticipation', 'disgust', 'fear', 'joy']",['positive'],anticipation,The hidden cove behind the waterfall is a perfect spot for a romantic getaway.,en,llama-3.1-8b-instant,v2-batch,1
+4,efficient,"['anticipation', 'trust']",['positive'],anticipation,Using public transport is an efficient way to get around the city.,en,llama-3.1-8b-instant,v2-batch,1
+5,efficient,"['anticipation', 'trust']",['positive'],anticipation,The new team has been working efficiently to meet the project deadline.,en,llama-3.1-8b-instant,v2-batch,1
+6,university,['anticipation'],['positive'],anticipation,I'm applying to several top universities in the country for next semester.,en,llama-3.1-8b-instant,v2-batch,1
+7,university,['anticipation'],['positive'],anticipation,The university is hosting a career fair with many leading companies attending.,en,llama-3.1-8b-instant,v2-batch,1
+8,hero,"['anticipation', 'joy', 'surprise', 'trust']",['positive'],anticipation,The firefighter is a true hero for rescuing people from the burning building.,en,llama-3.1-8b-instant,v2-batch,1
+9,hero,"['anticipation', 'joy', 'surprise', 'trust']",['positive'],anticipation,My mom is my personal hero for always being there to support me.,en,llama-3.1-8b-instant,v2-batch,1
+10,cement,"['anticipation', 'trust']",[],anticipation,The new construction project will use a special type of cement to ensure durability and strength.,en,llama-3.1-8b-instant,v2-batch,1
+11,cement,"['anticipation', 'trust']",[],anticipation,The engineer carefully mixed the cement to create a solid foundation for the building.,en,llama-3.1-8b-instant,v2-batch,1
+12,career,['anticipation'],['positive'],anticipation,Landing a job in her dream career was the main priority for Emily after graduating from college.,en,llama-3.1-8b-instant,v2-batch,1
+13,career,['anticipation'],['positive'],anticipation,"After years of hard work, he finally achieved his career goal of becoming a successful entrepreneur.",en,llama-3.1-8b-instant,v2-batch,1
+14,inspiration,"['anticipation', 'joy']",['positive'],anticipation,The motivational speaker's words were a great source of inspiration for the entire audience.,en,llama-3.1-8b-instant,v2-batch,1
+15,inspiration,"['anticipation', 'joy']",['positive'],anticipation,Reading about the life stories of successful people was a constant source of inspiration for him.,en,llama-3.1-8b-instant,v2-batch,1
+16,celebrated,"['anticipation', 'joy']",['positive'],anticipation,The famous chef was celebrated for his innovative recipes and culinary expertise.,en,llama-3.1-8b-instant,v2-batch,1
+17,celebrated,"['anticipation', 'joy']",['positive'],anticipation,She was celebrated as a national hero for her bravery and selfless contributions to society.,en,llama-3.1-8b-instant,v2-batch,1
+18,immature,['anticipation'],['negative'],anticipation,The immature plant required special care and attention to grow into a healthy tree.,en,llama-3.1-8b-instant,v2-batch,1
+19,immature,['anticipation'],['negative'],anticipation,He was still immature and needed guidance from his older brother to navigate life's challenges.,en,llama-3.1-8b-instant,v2-batch,1
+20,honeymoon,"['anticipation', 'joy', 'surprise', 'trust']",['positive'],anticipation,"Their upcoming honeymoon to the Maldives is highly anticipated, with many exciting activities planned.",en,llama-3.1-8b-instant,v2-batch,1
+21,honeymoon,"['anticipation', 'joy', 'surprise', 'trust']",['positive'],anticipation,"After months of saving, the couple is finally on their dream honeymoon, enjoying every moment of it.",en,llama-3.1-8b-instant,v2-batch,1
+22,rejoice,"['anticipation', 'joy', 'surprise', 'trust']",['positive'],anticipation,The fans were eager to rejoice when their favorite team finally won the championship after years of struggles.,en,llama-3.1-8b-instant,v2-batch,1
+23,rejoice,"['anticipation', 'joy', 'surprise', 'trust']",['positive'],anticipation,"Everyone will rejoice at the news of the new employee, who will help to improve the company's performance.",en,llama-3.1-8b-instant,v2-batch,1
+24,fain,"['anticipation', 'joy', 'trust']",['positive'],anticipation,"The villagers are fain to believe in the legend of the hidden treasure, which has been passed down for generations.",en,llama-3.1-8b-instant,v2-batch,1
+25,fain,"['anticipation', 'joy', 'trust']",['positive'],anticipation,"She fain wishes to join the team, but her lack of experience is a major concern for the coach.",en,llama-3.1-8b-instant,v2-batch,1
+26,withstand,"['anticipation', 'fear']",['positive'],anticipation,The city is preparing to withstand the upcoming hurricane by reinforcing its defenses and stockpiling supplies.,en,llama-3.1-8b-instant,v2-batch,1
+27,withstand,"['anticipation', 'fear']",['positive'],anticipation,"The athlete is training hard to withstand the physical demands of the marathon, which is just around the corner.",en,llama-3.1-8b-instant,v2-batch,1
+28,astrologer,['anticipation'],['positive'],anticipation,The famous astrologer has predicted that the upcoming eclipse will bring good fortune to those born under the right signs.,en,llama-3.1-8b-instant,v2-batch,1
+29,astrologer,['anticipation'],['positive'],anticipation,The astrologer's advice has helped many people to make important decisions about their love lives and career paths.,en,llama-3.1-8b-instant,v2-batch,1
+30,torture,"['anger', 'anticipation', 'disgust', 'fear', 'sadness']",['negative'],anticipation,The thought of the impending torture session filled me with growing anticipation.,en,llama-3.1-8b-instant,v2-batch,1
+31,torture,"['anger', 'anticipation', 'disgust', 'fear', 'sadness']",['negative'],anticipation,The news of the upcoming torture trial created a sense of anticipation in the community.,en,llama-3.1-8b-instant,v2-batch,1
+32,motion,['anticipation'],[],anticipation,The slow motion replay of the goal created a sense of anticipation for the fans.,en,llama-3.1-8b-instant,v2-batch,1
+33,motion,['anticipation'],[],anticipation,The teacher asked the students to show their motion before the upcoming exam to build anticipation.,en,llama-3.1-8b-instant,v2-batch,1
+34,precursor,['anticipation'],[],anticipation,The new technology was seen as a precursor to a brighter and more exciting future filled with anticipation.,en,llama-3.1-8b-instant,v2-batch,1
+35,precursor,['anticipation'],[],anticipation,The strange noise was a precursor to the anticipation of something incredible happening.,en,llama-3.1-8b-instant,v2-batch,1
+36,coming,['anticipation'],[],anticipation,The announcement of the coming holiday season filled everyone with excitement and anticipation.,en,llama-3.1-8b-instant,v2-batch,1
+37,coming,['anticipation'],[],anticipation,The news of the coming new product launch created a sense of anticipation among investors.,en,llama-3.1-8b-instant,v2-batch,1
+38,inoculation,"['anticipation', 'trust']",[],anticipation,The doctor explained that the inoculation process would take some time and cause a sense of anticipation.,en,llama-3.1-8b-instant,v2-batch,1
+39,inoculation,"['anticipation', 'trust']",[],anticipation,"The team was looking forward to the inoculation of the new technology, which was expected to bring great anticipation.",en,llama-3.1-8b-instant,v2-batch,1
+40,bridegroom,"['anticipation', 'joy', 'trust']",['positive'],anticipation,The bridegroom couldn't wait to see his bride walk down the aisle on their special day.,en,llama-3.1-8b-instant,v2-batch,1
+41,bridegroom,"['anticipation', 'joy', 'trust']",['positive'],anticipation,The bridegroom's friends were excitedly discussing the upcoming wedding reception plans tonight.,en,llama-3.1-8b-instant,v2-batch,1
+42,prevail,"['anticipation', 'joy']",['positive'],anticipation,The coach believed his team would prevail in the championship game if they played with confidence.,en,llama-3.1-8b-instant,v2-batch,1
+43,prevail,"['anticipation', 'joy']",['positive'],anticipation,"The strong breeze would prevail in the open field, making it difficult for the kite flyers.",en,llama-3.1-8b-instant,v2-batch,1
+44,frantic,"['anticipation', 'disgust', 'fear', 'surprise']",['negative'],anticipation,The frantic crowd rushed to the exit when the alarm sounded during the evacuation drill.,en,llama-3.1-8b-instant,v2-batch,1
+45,frantic,"['anticipation', 'disgust', 'fear', 'surprise']",['negative'],anticipation,The frantic search party combed the woods to find the missing child before nightfall.,en,llama-3.1-8b-instant,v2-batch,1
+46,rising,"['anticipation', 'joy']",['positive'],anticipation,The rising sun cast a warm glow over the ocean as the day began.,en,llama-3.1-8b-instant,v2-batch,1
+47,rising,"['anticipation', 'joy']",['positive'],anticipation,The rising cost of living made it challenging for many families to afford a comfortable lifestyle.,en,llama-3.1-8b-instant,v2-batch,1
+48,retirement,"['anticipation', 'fear', 'joy', 'sadness', 'trust']","['negative', 'positive']",anticipation,"After years of hard work, she was finally looking forward to her well-deserved retirement.",en,llama-3.1-8b-instant,v2-batch,1
+49,retirement,"['anticipation', 'fear', 'joy', 'sadness', 'trust']","['negative', 'positive']",anticipation,The company offered a generous retirement package to its long-serving employees as a token of appreciation.,en,llama-3.1-8b-instant,v2-batch,1
+50,immerse,"['anticipation', 'fear', 'joy', 'surprise', 'trust']",['positive'],anticipation,I'm really looking forward to immersing myself in the new virtual reality game tonight.,en,llama-3.1-8b-instant,v2-batch,1
+51,immerse,"['anticipation', 'fear', 'joy', 'surprise', 'trust']",['positive'],anticipation,She plans to immerse herself in a new language by taking an intensive course abroad next semester.,en,llama-3.1-8b-instant,v2-batch,1
+52,punt,['anticipation'],[],anticipation,The coach wants the team to punt the ball on fourth down to avoid a potential fumble.,en,llama-3.1-8b-instant,v2-batch,1
+53,punt,['anticipation'],[],anticipation,I'm going to punt on the project deadline and ask for an extension to ensure its quality.,en,llama-3.1-8b-instant,v2-batch,1
+54,diagnosis,"['anticipation', 'fear', 'trust']",['negative'],anticipation,The doctor needs to make a diagnosis before giving the patient a prescription and a treatment plan.,en,llama-3.1-8b-instant,v2-batch,1
+55,diagnosis,"['anticipation', 'fear', 'trust']",['negative'],anticipation,The medical team will work together to arrive at a diagnosis and develop an effective treatment strategy.,en,llama-3.1-8b-instant,v2-batch,1
+56,suspicious,"['anger', 'anticipation']",['negative'],anticipation,The police officer was suspicious of the stranger lingering around the crime scene.,en,llama-3.1-8b-instant,v2-batch,1
+57,suspicious,"['anger', 'anticipation']",['negative'],anticipation,I'm becoming suspicious that the company's financial reports may be misleading or inaccurate.,en,llama-3.1-8b-instant,v2-batch,1
+58,bloom,"['anticipation', 'joy', 'trust']",['positive'],anticipation,The flowers will bloom beautifully in the garden during the spring season.,en,llama-3.1-8b-instant,v2-batch,1
+59,bloom,"['anticipation', 'joy', 'trust']",['positive'],anticipation,The new business is expected to bloom and become successful within the next few years.,en,llama-3.1-8b-instant,v2-batch,1

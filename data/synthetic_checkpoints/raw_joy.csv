@@ -1,0 +1,61 @@
+id,seed_word,emotion_labels,polarity_labels,primary_emotion,generated_sentence,language,llm_model,prompt_version,generation_round
+0,crowning,"['anticipation', 'joy', 'surprise', 'trust']",['positive'],joy,The crowd erupted in cheers as the winner was finally crowning the champion of the competition.,en,llama-3.1-8b-instant,v2-batch,1
+1,crowning,"['anticipation', 'joy', 'surprise', 'trust']",['positive'],joy,The monarch's crowning moment was when she wore her favorite sparkling tiara to the coronation ceremony.,en,llama-3.1-8b-instant,v2-batch,1
+2,unconstrained,['joy'],['positive'],joy,The child's imagination ran wild and she felt completely unconstrained as she built her dream fort.,en,llama-3.1-8b-instant,v2-batch,1
+3,unconstrained,['joy'],['positive'],joy,The artist's unconstrained creativity was evident in her vibrant and colorful paintings on display.,en,llama-3.1-8b-instant,v2-batch,1
+4,delicious,['joy'],['positive'],joy,The smell of freshly baked cookies wafted through the air and promised a delicious treat after dinner.,en,llama-3.1-8b-instant,v2-batch,1
+5,delicious,['joy'],['positive'],joy,The chef's secret ingredient made the dish simply delicious and everyone asked for the recipe.,en,llama-3.1-8b-instant,v2-batch,1
+6,mirth,['joy'],['positive'],joy,Laughter and mirth filled the room when the comedian told his hilarious jokes during the comedy night.,en,llama-3.1-8b-instant,v2-batch,1
+7,mirth,['joy'],['positive'],joy,The children's contagious mirth and energy were infectious as they played games at the birthday party.,en,llama-3.1-8b-instant,v2-batch,1
+8,sweets,"['anticipation', 'joy']",['positive'],joy,The colorful array of sweets at the candy store caught her eye and made her feel happy.,en,llama-3.1-8b-instant,v2-batch,1
+9,sweets,"['anticipation', 'joy']",['positive'],joy,Sharing a plate of warm chocolate chip cookies and sweets with friends made the evening even more enjoyable.,en,llama-3.1-8b-instant,v2-batch,1
+10,benign,['joy'],['positive'],joy,Watching a harmless and benign cartoon with my nephews is always a joy.,en,llama-3.1-8b-instant,v2-batch,1
+11,benign,['joy'],['positive'],joy,The doctor reassured us that the benign tumor would be easily removable.,en,llama-3.1-8b-instant,v2-batch,1
+12,lovely,"['anticipation', 'joy', 'sadness', 'surprise', 'trust']",['positive'],joy,The lovely smell of freshly baked cookies filled the entire house.,en,llama-3.1-8b-instant,v2-batch,1
+13,lovely,"['anticipation', 'joy', 'sadness', 'surprise', 'trust']",['positive'],joy,The lovely view from the top of the mountain took our breath away.,en,llama-3.1-8b-instant,v2-batch,1
+14,liking,"['joy', 'trust']",['positive'],joy,I'm really liking the new restaurant downtown with its delicious pizza.,en,llama-3.1-8b-instant,v2-batch,1
+15,liking,"['joy', 'trust']",['positive'],joy,Kids are naturally liking the new playground equipment at school.,en,llama-3.1-8b-instant,v2-batch,1
+16,practiced,"['joy', 'surprise', 'trust']",['positive'],joy,"After years of practiced piano lessons, she could play a beautiful concerto.",en,llama-3.1-8b-instant,v2-batch,1
+17,practiced,"['joy', 'surprise', 'trust']",['positive'],joy,The team has practiced their soccer drills over a hundred times now.,en,llama-3.1-8b-instant,v2-batch,1
+18,rhythmical,"['joy', 'surprise']",['positive'],joy,The rhythmical beat of the drums in the marching band was exhilarating.,en,llama-3.1-8b-instant,v2-batch,1
+19,rhythmical,"['joy', 'surprise']",['positive'],joy,The rhythmical pattern of the waves crashing against the shore was soothing.,en,llama-3.1-8b-instant,v2-batch,1
+20,found,"['joy', 'trust']",['positive'],joy,"The little girl found a big, fluffy kitten in the backyard, and it brought her immense joy.",en,llama-3.1-8b-instant,v2-batch,1
+21,found,"['joy', 'trust']",['positive'],joy,"When she finally found the last piece of her favorite puzzle, she let out a loud shout of excitement.",en,llama-3.1-8b-instant,v2-batch,1
+22,sensual,"['anticipation', 'joy', 'surprise', 'trust']","['negative', 'positive']",joy,"The warm sunshine on her skin felt incredibly sensual, and she closed her eyes to savor the moment.",en,llama-3.1-8b-instant,v2-batch,1
+23,sensual,"['anticipation', 'joy', 'surprise', 'trust']","['negative', 'positive']",joy,"She loved the sensual feeling of walking barefoot in the soft, cool grass on a summer morning.",en,llama-3.1-8b-instant,v2-batch,1
+24,admiration,"['joy', 'trust']",['positive'],joy,"The crowd erupted in applause, filled with admiration for the young musician's incredible talent and skill.",en,llama-3.1-8b-instant,v2-batch,1
+25,admiration,"['joy', 'trust']",['positive'],joy,The stunning view from the top of the mountain filled her with admiration for the beauty of nature.,en,llama-3.1-8b-instant,v2-batch,1
+26,chirp,['joy'],['positive'],joy,"The happy bird's cheerful chirp filled the air, and it brought a smile to everyone's face.",en,llama-3.1-8b-instant,v2-batch,1
+27,chirp,['joy'],['positive'],joy,"As the morning sun rose, the forest came alive with the sweet chirp of birds singing their morning songs.",en,llama-3.1-8b-instant,v2-batch,1
+28,romp,['joy'],['positive'],joy,The energetic kids loved to have a playful romp in the sprinklers on a hot summer day.,en,llama-3.1-8b-instant,v2-batch,1
+29,romp,['joy'],['positive'],joy,The happy couple had a wonderful time dancing and having a joyful romp at their wedding reception.,en,llama-3.1-8b-instant,v2-batch,1
+30,generosity,"['anticipation', 'joy', 'surprise', 'trust']",['positive'],joy,Her act of generosity brought smiles to everyone's faces at the charity event.,en,llama-3.1-8b-instant,v2-batch,1
+31,generosity,"['anticipation', 'joy', 'surprise', 'trust']",['positive'],joy,The billionaire's generosity in donating to the local hospital was truly heartwarming.,en,llama-3.1-8b-instant,v2-batch,1
+32,victory,"['anticipation', 'joy', 'trust']",['positive'],joy,The team celebrated their victory with a big cake and a lot of cheering.,en,llama-3.1-8b-instant,v2-batch,1
+33,victory,"['anticipation', 'joy', 'trust']",['positive'],joy,The athlete felt an overwhelming sense of joy after winning the championship and tasting victory.,en,llama-3.1-8b-instant,v2-batch,1
+34,income,"['anticipation', 'joy', 'sadness', 'trust']","['negative', 'positive']",joy,The couple was thrilled to hear about their increased income and the prospect of a better life.,en,llama-3.1-8b-instant,v2-batch,1
+35,income,"['anticipation', 'joy', 'sadness', 'trust']","['negative', 'positive']",joy,The successful business owner was grateful for the steady income that allowed her to pursue her passions.,en,llama-3.1-8b-instant,v2-batch,1
+36,cherish,"['anticipation', 'joy', 'surprise', 'trust']",['positive'],joy,The couple cherished every moment they spent together on their romantic vacation.,en,llama-3.1-8b-instant,v2-batch,1
+37,cherish,"['anticipation', 'joy', 'surprise', 'trust']",['positive'],joy,The family cherished their summer home as a place where they could relax and have fun.,en,llama-3.1-8b-instant,v2-batch,1
+38,green,"['joy', 'trust']",['positive'],joy,The little boy was thrilled to see the green grass and the beautiful flowers in the park.,en,llama-3.1-8b-instant,v2-batch,1
+39,green,"['joy', 'trust']",['positive'],joy,The family loved their green backyard and spent many happy hours playing and relaxing there.,en,llama-3.1-8b-instant,v2-batch,1
+40,obtainable,['joy'],['positive'],joy,She felt a sense of excitement knowing the prize was finally obtainable after months of hard work.,en,llama-3.1-8b-instant,v2-batch,1
+41,obtainable,['joy'],['positive'],joy,The new policy made it obtainable for low-income families to access quality education and healthcare.,en,llama-3.1-8b-instant,v2-batch,1
+42,dawn,"['anticipation', 'joy', 'surprise', 'trust']",['positive'],joy,Watching the beautiful sun rise at dawn filled her heart with joy and a sense of new beginnings.,en,llama-3.1-8b-instant,v2-batch,1
+43,dawn,"['anticipation', 'joy', 'surprise', 'trust']",['positive'],joy,The hikers arrived just in time to witness the breathtaking dawn over the mountains.,en,llama-3.1-8b-instant,v2-batch,1
+44,peace,"['anticipation', 'joy', 'trust']",['positive'],joy,The family felt a deep sense of peace after resolving their long-standing conflicts and disagreements.,en,llama-3.1-8b-instant,v2-batch,1
+45,peace,"['anticipation', 'joy', 'trust']",['positive'],joy,The serene environment of the park brought a feeling of peace to her troubled mind.,en,llama-3.1-8b-instant,v2-batch,1
+46,accolade,"['anticipation', 'joy', 'surprise', 'trust']",['positive'],joy,Receiving the accolade for her outstanding contributions to the community was a truly humbling experience.,en,llama-3.1-8b-instant,v2-batch,1
+47,accolade,"['anticipation', 'joy', 'surprise', 'trust']",['positive'],joy,The team's hard work and dedication earned them a well-deserved accolade at the annual awards ceremony.,en,llama-3.1-8b-instant,v2-batch,1
+48,fun,"['anticipation', 'joy']",['positive'],joy,"The group of friends had a blast at the theme park, filled with laughter and having fun all day.",en,llama-3.1-8b-instant,v2-batch,1
+49,fun,"['anticipation', 'joy']",['positive'],joy,She was thrilled to share her love of art with her friends and have fun creating together.,en,llama-3.1-8b-instant,v2-batch,1
+50,raving,"['anger', 'anticipation', 'fear', 'joy', 'surprise']",['negative'],joy,The crowd was raving about the surprise concert announcement at the music festival.,en,llama-3.1-8b-instant,v2-batch,1
+51,raving,"['anger', 'anticipation', 'fear', 'joy', 'surprise']",['negative'],joy,"After watching the comedy show, I was still raving about the hilarious jokes.",en,llama-3.1-8b-instant,v2-batch,1
+52,ejaculation,"['anticipation', 'joy', 'surprise', 'trust']",['positive'],joy,The crowd erupted in joyful ejaculation as the team scored the winning goal.,en,llama-3.1-8b-instant,v2-batch,1
+53,ejaculation,"['anticipation', 'joy', 'surprise', 'trust']",['positive'],joy,The audience's joyful ejaculation was contagious as the performer sang an upbeat song.,en,llama-3.1-8b-instant,v2-batch,1
+54,rejoicing,"['anticipation', 'joy', 'surprise']",['positive'],joy,The entire city was rejoicing as the news of the royal wedding spread.,en,llama-3.1-8b-instant,v2-batch,1
+55,rejoicing,"['anticipation', 'joy', 'surprise']",['positive'],joy,"As I received the scholarship notification, I was rejoicing with tears of happiness.",en,llama-3.1-8b-instant,v2-batch,1
+56,charmed,['joy'],"['negative', 'positive']",joy,The magician's tricks charmed the young children who were mesmerized by the show.,en,llama-3.1-8b-instant,v2-batch,1
+57,charmed,['joy'],"['negative', 'positive']",joy,I was charmed by the kind words from my old friend after the long time apart.,en,llama-3.1-8b-instant,v2-batch,1
+58,twinkle,"['anticipation', 'joy']",['positive'],joy,The little girl's eyes sparkled with a magical twinkle as she looked at the fireworks.,en,llama-3.1-8b-instant,v2-batch,1
+59,twinkle,"['anticipation', 'joy']",['positive'],joy,The stars shone brightly in the night sky with a gentle twinkle that was breathtaking.,en,llama-3.1-8b-instant,v2-batch,1

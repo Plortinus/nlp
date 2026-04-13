@@ -1,0 +1,13 @@
+Taller 2: Análisis de la estructura del grafo de una red social
+El objetivo de este trabajo es analizar la red social de Juego de Tronos, ver si sus
+estadísticas corresponden con los valores que normalmente se encuentran en
+redes sociales reales.
+Para ello debe calcular y analizar los siguientes parámetros:
+• Diámetro
+• Longitud media de caminos
+• Coeficiente de Clustering Global
+• Existencia de Hubs (estudiar la distribución del Coeficiente de Clustering
+Local)
+En caso de que algún valor se aleje de los esperado en una red real, determinar a
+qué tipo de red sintética (Aleatoria, de Mundo Pequeño o de Unión Preferente) es
+más semejante
