@@ -1,0 +1,101 @@
+id,seed_word,emotion_labels,polarity_labels,primary_emotion,generated_sentence,style_register,length_bucket,length_rule,language,llm_model,prompt_version,generation_round
+0,adjudicate,['fear'],['negative'],fear,the judge will adjudicate the case with great severity now.,plain_narrative,short,10-22 words; simple syntax,en,qwen/qwen3-4b-2507,v9-gemma-local-strict-json,1
+1,afraid,['fear'],['negative'],fear,she felt afraid when the dark shadow suddenly appeared.,plain_narrative,short,10-22 words; simple syntax,en,qwen/qwen3-4b-2507,v9-gemma-local-strict-json,1
+2,agonizing,['fear'],['negative'],fear,The sharp pain was agonizing as the injury worsened quickly now.,plain_narrative,short,10-22 words; simple syntax,en,qwen/qwen3-4b-2507,v9-gemma-local-strict-json,1
+3,angina,['fear'],['negative'],fear,Sudden chest tightness signaled a severe angina attack in the patient.,plain_narrative,short,10-22 words; simple syntax,en,qwen/qwen3-4b-2507,v9-gemma-local-strict-json,1
+4,apache,['fear'],['negative'],fear,The loud apache sound made everyone suddenly feel intense dread.,plain_narrative,short,10-22 words; simple syntax,en,qwen/qwen3-4b-2507,v9-gemma-local-strict-json,1
+5,apprehend,['fear'],[],fear,The guard tried to apprehend the suspect with great apprehension.,plain_narrative,short,10-22 words; simple syntax,en,qwen/qwen3-4b-2507,v9-gemma-local-strict-json,1
+6,armaments,['fear'],['negative'],fear,The soldiers carried heavy armaments for the dangerous mission today.,plain_narrative,short,10-22 words; simple syntax,en,qwen/qwen3-4b-2507,v9-gemma-local-strict-json,1
+7,armored,['fear'],[],fear,The vehicle was heavily armored against the incoming attack.,plain_narrative,short,10-22 words; simple syntax,en,qwen/qwen3-4b-2507,v9-gemma-local-strict-json,1
+8,artillery,['fear'],['negative'],fear,The loud artillery sounded close and threatening nearby now.,plain_narrative,short,10-22 words; simple syntax,en,qwen/qwen3-4b-2507,v9-gemma-local-strict-json,1
+9,astray,['fear'],['negative'],fear,The small boat drifted far astray into the dark water.,plain_narrative,short,10-22 words; simple syntax,en,qwen/qwen3-4b-2507,v9-gemma-local-strict-json,1
+10,asylum,['fear'],['negative'],fear,The dark asylum walls trapped the frightened child inside quickly.,plain_narrative,short,10-22 words; simple syntax,en,qwen/qwen3-4b-2507,v9-gemma-local-strict-json,1
+11,avoid,['fear'],['negative'],fear,She tried to avoid the scary shadow lurking near the entrance.,plain_narrative,short,10-22 words; simple syntax,en,qwen/qwen3-4b-2507,v9-gemma-local-strict-json,1
+12,avoiding,['fear'],[],fear,He was avoiding the loud noise of the sudden crash nearby now.,plain_narrative,short,10-22 words; simple syntax,en,qwen/qwen3-4b-2507,v9-gemma-local-strict-json,1
+13,bale,['fear'],['negative'],fear,The heavy bale of hay suddenly rolled down the steep hill.,plain_narrative,short,10-22 words; simple syntax,en,qwen/qwen3-4b-2507,v9-gemma-local-strict-json,1
+14,barbarian,['fear'],['negative'],fear,The savage barbarian attacked the sleeping guard with a sharp weapon.,plain_narrative,short,10-22 words; simple syntax,en,qwen/qwen3-4b-2507,v9-gemma-local-strict-json,1
+15,barricade,['fear'],['negative'],fear,They quickly built a strong barricade against the approaching enemy forces.,plain_narrative,short,10-22 words; simple syntax,en,qwen/qwen3-4b-2507,v9-gemma-local-strict-json,1
+16,behemoth,['fear'],['negative'],fear,The giant behemoth crushed the small structure completely under its weight now.,plain_narrative,short,10-22 words; simple syntax,en,qwen/qwen3-4b-2507,v9-gemma-local-strict-json,1
+17,biopsy,['fear'],['negative'],fear,The doctor performed the biopsy with trembling hands under harsh light.,plain_narrative,short,10-22 words; simple syntax,en,qwen/qwen3-4b-2507,v9-gemma-local-strict-json,1
+18,bottomless,['fear'],[],fear,The deep pit felt bottomless and terrifyingly dark now.,plain_narrative,short,10-22 words; simple syntax,en,qwen/qwen3-4b-2507,v9-gemma-local-strict-json,1
+19,brigade,['fear'],['negative'],fear,"The marching brigade advanced toward the sudden, dreadful silence.",plain_narrative,short,10-22 words; simple syntax,en,qwen/qwen3-4b-2507,v9-gemma-local-strict-json,1
+20,bunker,['fear'],[],fear,We hid inside the dark bunker when the enemy approached quickly.,plain_narrative,short,10-22 words; simple syntax,en,qwen/qwen3-4b-2507,v9-gemma-local-strict-json,1
+21,cabal,['fear'],['negative'],fear,The secret cabal planned a terrible ambush against the group.,plain_narrative,short,10-22 words; simple syntax,en,qwen/qwen3-4b-2507,v9-gemma-local-strict-json,1
+22,captor,['fear'],['negative'],fear,The captor held the victim tightly with a cold grip now.,plain_narrative,short,10-22 words; simple syntax,en,qwen/qwen3-4b-2507,v9-gemma-local-strict-json,1
+23,cartridge,['fear'],[],fear,"A small cartridge suddenly fired, causing great alarm in the room.",plain_narrative,short,10-22 words; simple syntax,en,qwen/qwen3-4b-2507,v9-gemma-local-strict-json,1
+24,cautionary,['fear'],[],fear,The cautionary sign warned about the steep drop below us now.,plain_narrative,short,10-22 words; simple syntax,en,qwen/qwen3-4b-2507,v9-gemma-local-strict-json,1
+25,cautiously,['fear'],['positive'],fear,"He walked cautiously across the slippery, dark wooden floorboards.",plain_narrative,short,10-22 words; simple syntax,en,qwen/qwen3-4b-2507,v9-gemma-local-strict-json,1
+26,change,['fear'],[],fear,The sudden change in the light brought a wave of dread over me.,plain_narrative,short,10-22 words; simple syntax,en,qwen/qwen3-4b-2507,v9-gemma-local-strict-json,1
+27,chasm,['fear'],[],fear,We looked down into the deep chasm and felt utter terror.,plain_narrative,short,10-22 words; simple syntax,en,qwen/qwen3-4b-2507,v9-gemma-local-strict-json,1
+28,chicken,['fear'],[],fear,The small chicken ran quickly from the loud shadow nearby now.,plain_narrative,short,10-22 words; simple syntax,en,qwen/qwen3-4b-2507,v9-gemma-local-strict-json,1
+29,cleave,['fear'],[],fear,The sharp knife will cleave through the thin piece of wood easily.,plain_narrative,short,10-22 words; simple syntax,en,qwen/qwen3-4b-2507,v9-gemma-local-strict-json,1
+30,cliff,['fear'],[],fear,The steep cliff dropped suddenly into the dark ocean below me now.,plain_narrative,short,10-22 words; simple syntax,en,qwen/qwen3-4b-2507,v9-gemma-local-strict-json,1
+31,cobra,['fear'],[],fear,A venomous cobra coiled tightly around the unsuspecting victim quickly.,plain_narrative,short,10-22 words; simple syntax,en,qwen/qwen3-4b-2507,v9-gemma-local-strict-json,1
+32,conspiracy,['fear'],[],fear,The secret conspiracy made everyone deeply afraid of the shadows.,plain_narrative,short,10-22 words; simple syntax,en,qwen/qwen3-4b-2507,v9-gemma-local-strict-json,1
+33,conspire,['fear'],['negative'],fear,They began to conspire against the innocent person in the dark room.,plain_narrative,short,10-22 words; simple syntax,en,qwen/qwen3-4b-2507,v9-gemma-local-strict-json,1
+34,constrain,['fear'],['negative'],fear,The tight ropes would constrain my movement completely now. A heavy chain began to constrain the door shut fast.,plain_narrative,short,10-22 words; simple syntax,en,qwen/qwen3-4b-2507,v9-gemma-local-strict-json,1
+35,corrosive,['fear'],['negative'],fear,The acid was corrosive and ate through the metal quickly. Corrosive fumes made my throat burn severely.,plain_narrative,short,10-22 words; simple syntax,en,qwen/qwen3-4b-2507,v9-gemma-local-strict-json,1
+36,courageous,['fear'],['positive'],fear,The courageous soldier faced the danger without hesitation now.,plain_narrative,short,10-22 words; simple syntax,en,qwen/qwen3-4b-2507,v9-gemma-local-strict-json,1
+37,cowardice,['fear'],['negative'],fear,His deep cowardice caused him to run from the loud noise.,plain_narrative,short,10-22 words; simple syntax,en,qwen/qwen3-4b-2507,v9-gemma-local-strict-json,1
+38,cowardly,['fear'],['negative'],fear,The small animal acted cowardly when facing the large shadow nearby.,plain_narrative,short,10-22 words; simple syntax,en,qwen/qwen3-4b-2507,v9-gemma-local-strict-json,1
+39,coyote,['fear'],[],fear,A wild coyote suddenly appeared near the dark entrance of the cave.,plain_narrative,short,10-22 words; simple syntax,en,qwen/qwen3-4b-2507,v9-gemma-local-strict-json,1
+40,crocodile,['fear'],[],fear,The large crocodile lunged toward the small boat quickly now.,plain_narrative,short,10-22 words; simple syntax,en,qwen/qwen3-4b-2507,v9-gemma-local-strict-json,1
+41,crouch,['fear'],[],fear,He had to crouch low beneath the shadow of the beast.,plain_narrative,short,10-22 words; simple syntax,en,qwen/qwen3-4b-2507,v9-gemma-local-strict-json,1
+42,crouching,['fear'],['negative'],fear,The small animal was crouching low beneath the dark shadow now.,plain_narrative,short,10-22 words; simple syntax,en,qwen/qwen3-4b-2507,v9-gemma-local-strict-json,1
+43,cult,['fear'],['negative'],fear,Believing in the strange group made him feel intense dread inside.,plain_narrative,short,10-22 words; simple syntax,en,qwen/qwen3-4b-2507,v9-gemma-local-strict-json,1
+44,cutter,['fear'],['negative'],fear,The sharp cutter sliced deeply into the fragile skin quickly now.,plain_narrative,short,10-22 words; simple syntax,en,qwen/qwen3-4b-2507,v9-gemma-local-strict-json,1
+45,cyanide,['fear'],['negative'],fear,A small drop of cyanide caused immediate and terrible distress.,plain_narrative,short,10-22 words; simple syntax,en,qwen/qwen3-4b-2507,v9-gemma-local-strict-json,1
+46,dagger,['fear'],['negative'],fear,The sharp dagger glinted under the dim light of the room now.,plain_narrative,short,10-22 words; simple syntax,en,qwen/qwen3-4b-2507,v9-gemma-local-strict-json,1
+47,dangerous,['fear'],['negative'],fear,That cliff edge seemed truly dangerous for anyone to approach now.,plain_narrative,short,10-22 words; simple syntax,en,qwen/qwen3-4b-2507,v9-gemma-local-strict-json,1
+48,dart,['fear'],[],fear,"The small dart struck the target with sudden, sharp movement now.",plain_narrative,short,10-22 words; simple syntax,en,qwen/qwen3-4b-2507,v9-gemma-local-strict-json,1
+49,defend,['fear'],['positive'],fear,"He tried to defend himself against the sudden, terrifying attack.",plain_narrative,short,10-22 words; simple syntax,en,qwen/qwen3-4b-2507,v9-gemma-local-strict-json,1
+50,demented,['fear'],['negative'],fear,The patient looked demented after the sudden loud noise occurred.,plain_narrative,short,10-22 words; simple syntax,en,qwen/qwen3-4b-2507,v9-gemma-local-strict-json,1
+51,dentistry,['fear'],[],fear,The dentist showed the frightening tools for the dentistry procedure.,plain_narrative,short,10-22 words; simple syntax,en,qwen/qwen3-4b-2507,v9-gemma-local-strict-json,1
+52,despotic,['fear'],['negative'],fear,The despotic ruler ordered harsh punishments immediately upon the crowd.,plain_narrative,short,10-22 words; simple syntax,en,qwen/qwen3-4b-2507,v9-gemma-local-strict-json,1
+53,dictator,['fear'],['negative'],fear,The dictator's heavy boot crushed the small protestor beneath it.,plain_narrative,short,10-22 words; simple syntax,en,qwen/qwen3-4b-2507,v9-gemma-local-strict-json,1
+54,difficult,['fear'],[],fear,The climb felt very difficult on the slippery rocks today.,plain_narrative,short,10-22 words; simple syntax,en,qwen/qwen3-4b-2507,v9-gemma-local-strict-json,1
+55,dike,['fear'],[],fear,We saw the high dike blocking our path completely now.,plain_narrative,short,10-22 words; simple syntax,en,qwen/qwen3-4b-2507,v9-gemma-local-strict-json,1
+56,dinosaur,['fear'],[],fear,The giant dinosaur shadow loomed large over the small child now.,plain_narrative,short,10-22 words; simple syntax,en,qwen/qwen3-4b-2507,v9-gemma-local-strict-json,1
+57,disappear,['fear'],[],fear,The strange creature began to disappear into the dark forest.,plain_narrative,short,10-22 words; simple syntax,en,qwen/qwen3-4b-2507,v9-gemma-local-strict-json,1
+58,discipline,['fear'],['negative'],fear,The strict discipline caused him great apprehension before the test.,plain_narrative,short,10-22 words; simple syntax,en,qwen/qwen3-4b-2507,v9-gemma-local-strict-json,1
+59,disorder,['fear'],['negative'],fear,The sudden disorder in the machine brought intense dread to the workers.,plain_narrative,short,10-22 words; simple syntax,en,qwen/qwen3-4b-2507,v9-gemma-local-strict-json,1
+60,distressed,['fear'],['negative'],fear,The small child looked deeply distressed by the loud sudden noise.,plain_narrative,short,10-22 words; simple syntax,en,qwen/qwen3-4b-2507,v9-gemma-local-strict-json,1
+61,dominant,['fear'],['negative'],fear,The shadow felt dominant over the entire dark room now.,plain_narrative,short,10-22 words; simple syntax,en,qwen/qwen3-4b-2507,v9-gemma-local-strict-json,1
+62,doom,['fear'],['negative'],fear,The dark clouds brought terrible doom upon the small village now.,plain_narrative,short,10-22 words; simple syntax,en,qwen/qwen3-4b-2507,v9-gemma-local-strict-json,1
+63,dragon,['fear'],[],fear,"A huge dragon roared, its shadow filled the entire cavern.",plain_narrative,short,10-22 words; simple syntax,en,qwen/qwen3-4b-2507,v9-gemma-local-strict-json,1
+64,dungeon,['fear'],['negative'],fear,The cold dungeon walls trapped the prisoner in deep shadows now.,plain_narrative,short,10-22 words; simple syntax,en,qwen/qwen3-4b-2507,v9-gemma-local-strict-json,1
+65,edict,['fear'],['negative'],fear,The harsh edict demanded immediate and terrifying obedience from everyone.,plain_narrative,short,10-22 words; simple syntax,en,qwen/qwen3-4b-2507,v9-gemma-local-strict-json,1
+66,endangered,['fear'],['negative'],fear,The small animal felt endangered by the sudden loud noise nearby.,plain_narrative,short,10-22 words; simple syntax,en,qwen/qwen3-4b-2507,v9-gemma-local-strict-json,1
+67,enigmatic,['fear'],['negative'],fear,The strange shadow held an enigmatic look that caused great dread.,plain_narrative,short,10-22 words; simple syntax,en,qwen/qwen3-4b-2507,v9-gemma-local-strict-json,1
+68,erase,['fear'],['negative'],fear,He tried to erase the mark before anyone saw it now.,plain_narrative,short,10-22 words; simple syntax,en,qwen/qwen3-4b-2507,v9-gemma-local-strict-json,1
+69,escaped,['fear'],[],fear,The small creature quickly escaped from the dark cave entrance.,plain_narrative,short,10-22 words; simple syntax,en,qwen/qwen3-4b-2507,v9-gemma-local-strict-json,1
+70,ethereal,['fear'],[],fear,The ethereal light suddenly vanished into complete darkness now.,plain_narrative,short,10-22 words; simple syntax,en,qwen/qwen3-4b-2507,v9-gemma-local-strict-json,1
+71,evacuate,['fear'],['negative'],fear,We must evacuate the building before the danger arrives quickly.,plain_narrative,short,10-22 words; simple syntax,en,qwen/qwen3-4b-2507,v9-gemma-local-strict-json,1
+72,falter,['fear'],['negative'],fear,His leg began to falter just before the jump. The weak movement made him truly afraid.,plain_narrative,short,10-22 words; simple syntax,en,qwen/qwen3-4b-2507,v9-gemma-local-strict-json,1
+73,fang,['fear'],[],fear,The sharp fang showed in the dark shadows. Its sudden appearance caused great dread.,plain_narrative,short,10-22 words; simple syntax,en,qwen/qwen3-4b-2507,v9-gemma-local-strict-json,1
+74,fangs,['fear'],[],fear,The sharp fangs pierced the soft skin of the creature quickly now.,plain_narrative,short,10-22 words; simple syntax,en,qwen/qwen3-4b-2507,v9-gemma-local-strict-json,1
+75,fearing,['fear'],['negative'],fear,He showed clear signs of fearing the sudden dark shadow approaching.,plain_narrative,short,10-22 words; simple syntax,en,qwen/qwen3-4b-2507,v9-gemma-local-strict-json,1
+76,fearless,['fear'],['positive'],fear,The brave soldier showed fearless courage during the attack.,plain_narrative,short,10-22 words; simple syntax,en,qwen/qwen3-4b-2507,v9-gemma-local-strict-json,1
+77,felon,['fear'],['negative'],fear,The known felon ran quickly from the pursuing officers.,plain_narrative,short,10-22 words; simple syntax,en,qwen/qwen3-4b-2507,v9-gemma-local-strict-json,1
+78,fever,['fear'],[],fear,The high fever made his body shake uncontrollably in the dark room.,plain_narrative,short,10-22 words; simple syntax,en,qwen/qwen3-4b-2507,v9-gemma-local-strict-json,1
+79,fire,['fear'],[],fear,"The intense fire burned his hands with searing, painful heat immediately.",plain_narrative,short,10-22 words; simple syntax,en,qwen/qwen3-4b-2507,v9-gemma-local-strict-json,1
+80,fled,['fear'],[],fear,The small animal quickly fled from the sudden loud noise outside.,plain_narrative,short,10-22 words; simple syntax,en,qwen/qwen3-4b-2507,v9-gemma-local-strict-json,1
+81,flee,['fear'],['negative'],fear,We must flee the dangerous situation before the danger arrives now.,plain_narrative,short,10-22 words; simple syntax,en,qwen/qwen3-4b-2507,v9-gemma-local-strict-json,1
+82,flood,['fear'],[],fear,The sudden floodwaters quickly covered the entire basement floor now.,plain_narrative,short,10-22 words; simple syntax,en,qwen/qwen3-4b-2507,v9-gemma-local-strict-json,1
+83,flying,['fear'],['positive'],fear,The bird's frantic flying signaled immediate danger above.,plain_narrative,short,10-22 words; simple syntax,en,qwen/qwen3-4b-2507,v9-gemma-local-strict-json,1
+84,forced,['fear'],['negative'],fear,The strong wind forced the small boat to turn suddenly now.,plain_narrative,short,10-22 words; simple syntax,en,qwen/qwen3-4b-2507,v9-gemma-local-strict-json,1
+85,foreigner,['fear'],['negative'],fear,"The strange foreigner looked around with wide, fearful eyes.",plain_narrative,short,10-22 words; simple syntax,en,qwen/qwen3-4b-2507,v9-gemma-local-strict-json,1
+86,formidable,['fear'],[],fear,The giant shadow looked truly formidable across the dark field now.,plain_narrative,short,10-22 words; simple syntax,en,qwen/qwen3-4b-2507,v9-gemma-local-strict-json,1
+87,fret,['fear'],['negative'],fear,She began to fret about the sudden loud noise in the empty room.,plain_narrative,short,10-22 words; simple syntax,en,qwen/qwen3-4b-2507,v9-gemma-local-strict-json,1
+88,frigate,['fear'],[],fear,The small frigate suddenly turned and disappeared into the dark water.,plain_narrative,short,10-22 words; simple syntax,en,qwen/qwen3-4b-2507,v9-gemma-local-strict-json,1
+89,gash,['fear'],['negative'],fear,A sharp gash opened on the skin during the sudden struggle.,plain_narrative,short,10-22 words; simple syntax,en,qwen/qwen3-4b-2507,v9-gemma-local-strict-json,1
+90,gasping,['fear'],['negative'],fear,The person was gasping for breath after the sudden loud noise occurred.,plain_narrative,short,10-22 words; simple syntax,en,qwen/qwen3-4b-2507,v9-gemma-local-strict-json,1
+91,ghost,['fear'],[],fear,A cold ghost appeared in the dark corner of the empty room.,plain_narrative,short,10-22 words; simple syntax,en,qwen/qwen3-4b-2507,v9-gemma-local-strict-json,1
+92,ghostly,['fear'],['negative'],fear,A ghostly shadow moved across the dark wall suddenly.,plain_narrative,short,10-22 words; simple syntax,en,qwen/qwen3-4b-2507,v9-gemma-local-strict-json,1
+93,giant,['fear'],[],fear,The giant shadow loomed large over the small figure.,plain_narrative,short,10-22 words; simple syntax,en,qwen/qwen3-4b-2507,v9-gemma-local-strict-json,1
+94,gladiator,['fear'],[],fear,The gladiator stood ready for the brutal fight in the arena now.,plain_narrative,short,10-22 words; simple syntax,en,qwen/qwen3-4b-2507,v9-gemma-local-strict-json,1
+95,grenade,['fear'],['negative'],fear,He saw the dangerous grenade roll toward the unsuspecting soldier.,plain_narrative,short,10-22 words; simple syntax,en,qwen/qwen3-4b-2507,v9-gemma-local-strict-json,1
+96,grizzly,['fear'],['negative'],fear,The grizzly bear approached slowly from the dark thicket nearby now.,plain_narrative,short,10-22 words; simple syntax,en,qwen/qwen3-4b-2507,v9-gemma-local-strict-json,1
+97,guerilla,['fear'],['negative'],fear,The small guerilla fighters moved quickly through the hidden jungle area.,plain_narrative,short,10-22 words; simple syntax,en,qwen/qwen3-4b-2507,v9-gemma-local-strict-json,1
+98,gunpowder,['fear'],[],fear,The smell of gunpowder filled the small room suddenly and sharply.,plain_narrative,short,10-22 words; simple syntax,en,qwen/qwen3-4b-2507,v9-gemma-local-strict-json,1
+99,hangman,['fear'],['negative'],fear,The shadow of the hangman loomed large across the dusty floor.,plain_narrative,short,10-22 words; simple syntax,en,qwen/qwen3-4b-2507,v9-gemma-local-strict-json,1

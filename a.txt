@@ -1,0 +1,137 @@
+
+1
+Máster Universitario en Ciencia de Datos, Máster Universitario en Ingeniería Informática, y Máster
+Universitario en Sistemas Interactivos Inteligentes,
+Procesamiento del Lenguaje Natural, y
+Aprendizaje Profundo para el Procesamiento del Lenguaje Natural
+2025-26
+Práctica de laboratorio: Análisis de Emociones y Sentimiento
+Entrega: 22 de abril de 2026
+Modelo de trabajo: la práctica se abordará y entregará por parejas
+En este ejercicio, trabajaremos con el Procesamiento del Lenguaje Natural (PLN) para analizar las emociones
+expresadas en textos literarios. El objetivo es construir un sistema que pueda identificar y contar las emociones
+y sentimientos presentes en estas obras. Este ejercicio se enfoca en el uso de técnicas avanzadas de PLN, la
+extracción de información de texto y el procesamiento de lenguaje natural en general.
+Para llevar a cabo este ejercicio, se te proporcionará acceso a una serie de recursos y herramientas, incluyendo
+el léxico de emociones NRC (National Research Council) y la biblioteca de Python Beautiful Soup.
+Recursos:
+1. Léxico de Emociones: Se trata de una colección de palabras y sus asociaciones con emociones. En este
+ejercicio, utilizaremos el Word-Emotion Association Lexicon del NRC (National Research Council)1
+.
+Se trata de un recurso ampliamente reconocido en el campo del PLN. Cuenta con 14,182 unigramas
+(palabras) con las categorías de sentimientos positivo y negativo, así como las emociones de enfado,
+anticipación, disgusto, miedo, alegría, tristeza, sorpresa y confianza. Está disponible en más de cien
+idiomas mediante traducción automática.
+3. Project Gutenberg: Es una biblioteca digital que ofrece miles de libros electrónicos gratuitos. Es una
+excelente fuente de textos literarios gratuitos debido a su amplia variedad de obras y a la facilidad con
+la que se pueden descargar y utilizar para fines educativos y de investigación.
+1 https://saifmohammad.com/WebPages/NRC-Emotion-Lexicon.htm
+
+2
+Tareas:
+1. (1.5 puntos) Construye un dataset sintético de frases y emociones. Para ello:
+• Descarga el Word-Emotion Association Lexicon del NRC (también conocido como EmoLex)
+desde el siguiente enlace: https://saifmohammad.com/WebPages/NRC-Emotion-Lexicon.htm.
+Asegúrate de entender cómo se estructura el léxico y cómo se mapean las palabras a las
+emociones (tanto su vertiente afectiva como su polaridad). Ten en cuenta que hay varios
+ficheros con la misma información: un fichero con toda la información, un fichero por emoción,
+etc.
+• Usando un LLM de tu elección (ChatGPT, Gemini, DeepSeek, etc.) que genere un dataset
+donde, a partir de la información del lexicón (palabras y emociones), puedas disponer de frases
+que estén etiquetadas con emociones. Indica: qué LLM has elegido, qué prompt exacto has
+utilizado, si has tenido que iterar varias veces hasta conseguir el resultado esperado, si has
+impuesto restricciones en el tipo de frases generadas, etc.
+• Cuando guardes el dataset, asegúrate de que tenga toda la información que te sea relevante, por
+ejemplo, cuál es la palabra semilla que se tomó para generar la frase, cuáles son las emociones
+con las que está vinculada, que no haya
+• Comprueba algunas cuestiones de tu dataset: ¿Crees que el tamaño del dataset es suficiente para
+que puedas entrenar un clasificador? ¿Por qué? ¿Cuál es la distribución de las clases? ¿Están
+las clases balanceadas? ¿Por qué? ¿Si no lo están? ¿Supone eso un problema? En caso
+afirmativo, ¿se te ocurre algún modo de conseguir el dataset sea balanceado? Detalla cómo.
+¿Hay frases duplicadas? ¿Cuál es la longitud media de las frases generadas? En tu informe,
+proporciona ejemplos manualmente revisados. ¿Crees que el tamaño de tu dataset es suficiente?
+Explica por qué.
+2. (3.0 puntos) Tomando como entrada el dataset que acabas de construir en el apartado anterior:
+• Selecciona y entrena al menos 2 algoritmos de aprendizaje automático no basados en redes
+neuronales para clasificar emociones. Explica por qué has decidido seleccionar esos modelos.
+• Señala cuál ha sido tu política para la construcción de los conjuntos para entrenamiento,
+validación y test.
+• Identifica al menos 2 modelos de vectorización del texto diferentes con los que entrenar cada
+algoritmo elegido. Pueden ser vectores dispersos o densos. Justifica por qué has elegido esos
+modelos y no otros.
+• Usa las métricas más adecuadas que te permitan analizar la eficacia de los modelos. Contrasta
+los valores obtenidos.
+• Una vez entrenados, validados y evaluados los modelos, implementa la funcionalidad para
+guardarlos de forma local y poder recuperarlos más tarde.
+3. (3.0 puntos) Implementa una función que permita analizar texto y proporcionar las emociones
+vinculadas con él. Esta función debe:
+• Recibir el texto que analizar, y uno de los algoritmos que has entrenado en apartados anteriores.
+• Devolver, un diccionario donde las claves sean emociones del NRC, y vinculadas con cada
+clave, el nivel de esa emoción que ha identificado. ¿Qué estrategia has empleado para decidir
+el nivel de cada emoción en el texto completo?
+
+3
+4. (1.5 puntos) Cargar el texto de novelas clásicas disponibles en Project Gutenberg. El siguiente es un
+diccionario con 10 novelas conocidas que están accesibles en Project Gutenberg que puedes usar en tu
+código.
+books = {
+ 'Crime and Punishment ': 'http://www.gutenberg.org/files/2554/2554-0.txt',
+ 'War and Peace': 'http://www.gutenberg.org/files/2600/2600-0.txt',
+ 'Pride and Prejudice': 'http://www.gutenberg.org/files/1342/1342-0.txt',
+ 'Frankenstein': 'https://www.gutenberg.org/cache/epub/84/pg84.txt',
+ 'The Adventures of Sherlock Holmes': 'http://www.gutenberg.org/files/1661/1661-0.txt',
+ 'Ulysses': 'http://www.gutenberg.org/files/4300/4300-0.txt',
+ 'The Odyssey': 'https://www.gutenberg.org/cache/epub/1727/pg1727.txt',
+ 'Moby Dick': 'http://www.gutenberg.org/files/15/15-0.txt',
+ 'The Divine Comedy': 'https://www.gutenberg.org/cache/epub/8800/pg8800.txt',
+ 'Critias': 'https://www.gutenberg.org/cache/epub/1571/pg1571.txt'
+}
+Se puede un código similar al siguiente fragmento para descargar el texto de una novela:
+import requests
+def download_text(url):
+ """Descarga el texto de una novela en formato txt."""
+ try:
+ response = requests.get(url)
+ response.raise_for_status() # Lanza excepción para códigos HTTP 4xx/5xx
+ return response.text
+ except requests.exceptions.RequestException as e:
+ print(f"Error al descargar el texto: {e}")
+ return None
+Para tu práctica, elije la estructura de datos apropiada para poder abordar el siguiente apartado con
+garantías. Explica y razona tu implementación.
+Una vez lo tengas listo, utiliza varias novelas clásicas disponibles en Project Gutenberg para aplicar el
+sistema de análisis de emociones desarrollado en las tareas anteriores. El trabajo debe incluir:
+• la descarga automática del texto de al menos 5 novelas;
+• limpieza del texto, por ejemplo, para eliminar la cabecera y el pie estándar de Project
+Gutenberg;
+• segmentación de cada novela en bloques analizables;
+• aplicación de la función de la Tarea 3 para obtener un perfil emocional de cada bloque;
+• cálculo de un perfil emocional global por novela.
+5. (1.0 puntos) Presenta los resultados del análisis en las novelas clásicas. Incluye estadísticas sobre las
+emociones más comunes y cualquier patrón interesante que hayas observado. Considera cómo
+visualizar los datos y cómo explicar las conclusiones del análisis solicitado. En concreto, el informe
+debe contemplar:
+• Resumen cuantitativo global del perfil emocional de cada novela.
+• Selección de las visualizaciones adecuadas,
+• Comparación de las novelas analizadas, indicando, por ejemplo, qué emociones dominan en
+cada una, y si tiene sentido dada la novela procesada.
+
+4
+• Un análisis de la evolución de las emociones para observar cómo cambian a lo largo de una
+novela (opcional).
+• Fragmentos representativos: tales como ejemplos de pasajes con alta puntuación en ciertas
+emociones (opcional).
+• Una discusión crítica sobre las limitaciones del enfoque, señalando hasta qué punto los
+resultados son fiables dado que el modelo fue entrenado con datos sintéticos, señala qué
+ventajas e inconvenientes tiene y cuáles pueden ser las repercusiones en el resto de las tareas;
+indica cuáles son (si las hay) las limitaciones metodológicas, tales como el estilo literario, si
+aplica a textos largos, si existen sesgos léxicos, si aplica a traducciones, segmentación por
+bloques.
+Entregable.
+El entregable de estas tareas de laboratorio consistirá en un archivo Jupiter Notebook con el código Python
+desarrollado:
+• El código debe estar bien comentado para facilitar su comprensión.
+• Deberá incluir una breve explicación en cada paso aclarando las tareas realizadas, discutiendo las
+principales cuestiones de interés y (si procede), informar de los resultados.
+Deberá enviase el archivo nombrado como nlp2526-lab1-XX.ipynb a través de Moodle, donde XX debe
+sustituirse por identificador de la pareja, por ejemplo: nlp2526-lab6-05.ipynb

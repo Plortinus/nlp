@@ -1,0 +1,101 @@
+id,seed_word,emotion_labels,polarity_labels,primary_emotion,generated_sentence,style_register,length_bucket,length_rule,language,llm_model,prompt_version,generation_round
+0,abundant,['joy'],['positive'],joy,The garden showed abundant sunshine on the bright morning.,plain_narrative,short,10-22 words; simple syntax,en,qwen/qwen3-4b-2507,v9-gemma-local-strict-json,1
+1,accomplish,['joy'],['positive'],joy,She worked hard to accomplish the difficult painting quickly.,plain_narrative,short,10-22 words; simple syntax,en,qwen/qwen3-4b-2507,v9-gemma-local-strict-json,1
+2,adorable,['joy'],['positive'],joy,The puppy was so adorable when it wagged its tiny tail happily.,plain_narrative,short,10-22 words; simple syntax,en,qwen/qwen3-4b-2507,v9-gemma-local-strict-json,1
+3,aesthetics,['joy'],['positive'],joy,The bright colors created beautiful aesthetics in the entire room.,plain_narrative,short,10-22 words; simple syntax,en,qwen/qwen3-4b-2507,v9-gemma-local-strict-json,1
+4,amicable,['joy'],['positive'],joy,The friendly handshake showed an amicable agreement between the two parties.,plain_narrative,short,10-22 words; simple syntax,en,qwen/qwen3-4b-2507,v9-gemma-local-strict-json,1
+5,amnesty,['joy'],['positive'],joy,Receiving amnesty brought a wave of pure joy to the entire community.,plain_narrative,short,10-22 words; simple syntax,en,qwen/qwen3-4b-2507,v9-gemma-local-strict-json,1
+6,amuse,['joy'],['positive'],joy,The funny clown began to amuse the small children greatly today.,plain_narrative,short,10-22 words; simple syntax,en,qwen/qwen3-4b-2507,v9-gemma-local-strict-json,1
+7,amused,['joy'],['positive'],joy,She looked very amused after hearing the delightful surprise story.,plain_narrative,short,10-22 words; simple syntax,en,qwen/qwen3-4b-2507,v9-gemma-local-strict-json,1
+8,amusing,['joy'],['positive'],joy,The funny clown made everyone feel very amusing today.,plain_narrative,short,10-22 words; simple syntax,en,qwen/qwen3-4b-2507,v9-gemma-local-strict-json,1
+9,animated,['joy'],['positive'],joy,Her bright smile was so animated during the happy performance.,plain_narrative,short,10-22 words; simple syntax,en,qwen/qwen3-4b-2507,v9-gemma-local-strict-json,1
+10,baby,['joy'],['positive'],joy,The tiny baby smiled brightly at the cheerful music playing now.,plain_narrative,short,10-22 words; simple syntax,en,qwen/qwen3-4b-2507,v9-gemma-local-strict-json,1
+11,baptismal,['joy'],['positive'],joy,The baptismal ceremony brought great happiness to the whole family.,plain_narrative,short,10-22 words; simple syntax,en,qwen/qwen3-4b-2507,v9-gemma-local-strict-json,1
+12,beach,['joy'],[],joy,The bright sun made the beach a perfect place for happy swimming today.,plain_narrative,short,10-22 words; simple syntax,en,qwen/qwen3-4b-2507,v9-gemma-local-strict-json,1
+13,beam,['joy'],['positive'],joy,A warm golden beam of light touched the happy face on the beach.,plain_narrative,short,10-22 words; simple syntax,en,qwen/qwen3-4b-2507,v9-gemma-local-strict-json,1
+14,beautiful,['joy'],['positive'],joy,The sunset was truly beautiful across the wide sky today.,plain_narrative,short,10-22 words; simple syntax,en,qwen/qwen3-4b-2507,v9-gemma-local-strict-json,1
+15,beautify,['joy'],['positive'],joy,She worked hard to beautify the garden for the celebration.,plain_narrative,short,10-22 words; simple syntax,en,qwen/qwen3-4b-2507,v9-gemma-local-strict-json,1
+16,beauty,['joy'],['positive'],joy,The bright flower showed great beauty in the garden today.,plain_narrative,short,10-22 words; simple syntax,en,qwen/qwen3-4b-2507,v9-gemma-local-strict-json,1
+17,beer,['joy'],['positive'],joy,A cold glass of beer brought pure joy to the celebration.,plain_narrative,short,10-22 words; simple syntax,en,qwen/qwen3-4b-2507,v9-gemma-local-strict-json,1
+18,benign,['joy'],['positive'],joy,The gentle breeze felt very benign on my happy face today.,plain_narrative,short,10-22 words; simple syntax,en,qwen/qwen3-4b-2507,v9-gemma-local-strict-json,1
+19,blessed,['joy'],['positive'],joy,I feel truly blessed with this wonderful sunny afternoon now.,plain_narrative,short,10-22 words; simple syntax,en,qwen/qwen3-4b-2507,v9-gemma-local-strict-json,1
+20,bliss,['joy'],['positive'],joy,The sunshine brought pure bliss to the happy garden today.,plain_narrative,short,10-22 words; simple syntax,en,qwen/qwen3-4b-2507,v9-gemma-local-strict-json,1
+21,blissful,['joy'],['positive'],joy,She looked truly blissful after receiving the wonderful surprise gift.,plain_narrative,short,10-22 words; simple syntax,en,qwen/qwen3-4b-2507,v9-gemma-local-strict-json,1
+22,blossom,['joy'],['positive'],joy,The bright flower began to blossom under the warm sunshine today.,plain_narrative,short,10-22 words; simple syntax,en,qwen/qwen3-4b-2507,v9-gemma-local-strict-json,1
+23,bonanza,['joy'],['positive'],joy,We enjoyed a wonderful bonanza of colorful balloons at the party.,plain_narrative,short,10-22 words; simple syntax,en,qwen/qwen3-4b-2507,v9-gemma-local-strict-json,1
+24,buss,['joy'],['positive'],joy,The bright bus brought happy children to the park today.,plain_narrative,short,10-22 words; simple syntax,en,qwen/qwen3-4b-2507,v9-gemma-local-strict-json,1
+25,charmed,['joy'],"['negative', 'positive']",joy,Her sweet smile charmed everyone in the room instantly.,plain_narrative,short,10-22 words; simple syntax,en,qwen/qwen3-4b-2507,v9-gemma-local-strict-json,1
+26,cheering,['joy'],['positive'],joy,The crowd was cheering loudly for the winning team today.,plain_narrative,short,10-22 words; simple syntax,en,qwen/qwen3-4b-2507,v9-gemma-local-strict-json,1
+27,childhood,['joy'],['positive'],joy,I remember the pure joy of my childhood summer days.,plain_narrative,short,10-22 words; simple syntax,en,qwen/qwen3-4b-2507,v9-gemma-local-strict-json,1
+28,chirp,['joy'],['positive'],joy,The little bird gave a sweet chirp of happiness today.,plain_narrative,short,10-22 words; simple syntax,en,qwen/qwen3-4b-2507,v9-gemma-local-strict-json,1
+29,choral,['joy'],['positive'],joy,The group sang a beautiful choral piece full of delight.,plain_narrative,short,10-22 words; simple syntax,en,qwen/qwen3-4b-2507,v9-gemma-local-strict-json,1
+30,classics,['joy'],['positive'],joy,These old classics bring such wonderful happiness to everyone today.,plain_narrative,short,10-22 words; simple syntax,en,qwen/qwen3-4b-2507,v9-gemma-local-strict-json,1
+31,create,['joy'],['positive'],joy,We love to create beautiful things that bring pure delight.,plain_narrative,short,10-22 words; simple syntax,en,qwen/qwen3-4b-2507,v9-gemma-local-strict-json,1
+32,daughter,['joy'],['positive'],joy,My happy daughter laughed loudly at the bright sunshine today.,plain_narrative,short,10-22 words; simple syntax,en,qwen/qwen3-4b-2507,v9-gemma-local-strict-json,1
+33,delicious,['joy'],['positive'],joy,This sweet fruit tastes so delicious and makes everyone smile.,plain_narrative,short,10-22 words; simple syntax,en,qwen/qwen3-4b-2507,v9-gemma-local-strict-json,1
+34,diamond,['joy'],['positive'],joy,The bright diamond sparkled beautifully under the sunlight today.,plain_narrative,short,10-22 words; simple syntax,en,qwen/qwen3-4b-2507,v9-gemma-local-strict-json,1
+35,ditty,['joy'],['positive'],joy,She sang a sweet little ditty that filled the whole room with happiness.,plain_narrative,short,10-22 words; simple syntax,en,qwen/qwen3-4b-2507,v9-gemma-local-strict-json,1
+36,doll,['joy'],[],joy,The tiny doll brought great happiness to the child today.,plain_narrative,short,10-22 words; simple syntax,en,qwen/qwen3-4b-2507,v9-gemma-local-strict-json,1
+37,elated,['joy'],['positive'],joy,She felt truly elated after winning the big competition.,plain_narrative,short,10-22 words; simple syntax,en,qwen/qwen3-4b-2507,v9-gemma-local-strict-json,1
+38,elegant,['joy'],['positive'],joy,The elegant dress made her smile brightly at the party entrance.,plain_narrative,short,10-22 words; simple syntax,en,qwen/qwen3-4b-2507,v9-gemma-local-strict-json,1
+39,entertain,['joy'],['positive'],joy,The music began to entertain everyone with its cheerful rhythm.,plain_narrative,short,10-22 words; simple syntax,en,qwen/qwen3-4b-2507,v9-gemma-local-strict-json,1
+40,exquisite,['joy'],['positive'],joy,The colorful flower was truly exquisite to behold now.,plain_narrative,short,10-22 words; simple syntax,en,qwen/qwen3-4b-2507,v9-gemma-local-strict-json,1
+41,festive,['joy'],['positive'],joy,The party felt very festive with bright decorations everywhere.,plain_narrative,short,10-22 words; simple syntax,en,qwen/qwen3-4b-2507,v9-gemma-local-strict-json,1
+42,flattering,['joy'],['positive'],joy,The bright colors were very flattering on her face today.,plain_narrative,short,10-22 words; simple syntax,en,qwen/qwen3-4b-2507,v9-gemma-local-strict-json,1
+43,frolic,['joy'],['positive'],joy,The children began to frolic happily in the green grass.,plain_narrative,short,10-22 words; simple syntax,en,qwen/qwen3-4b-2507,v9-gemma-local-strict-json,1
+44,fulfill,['joy'],['positive'],joy,She felt great when she could fulfill her dream project now.,plain_narrative,short,10-22 words; simple syntax,en,qwen/qwen3-4b-2507,v9-gemma-local-strict-json,1
+45,garden,['joy'],['positive'],joy,The bright flowers in the garden brought such pure happiness.,plain_narrative,short,10-22 words; simple syntax,en,qwen/qwen3-4b-2507,v9-gemma-local-strict-json,1
+46,genial,['joy'],['positive'],joy,His genial smile brightened the whole room with happiness.,plain_narrative,short,10-22 words; simple syntax,en,qwen/qwen3-4b-2507,v9-gemma-local-strict-json,1
+47,giggle,['joy'],['positive'],joy,She let out a sweet giggle while watching the funny puppy.,plain_narrative,short,10-22 words; simple syntax,en,qwen/qwen3-4b-2507,v9-gemma-local-strict-json,1
+48,glee,['joy'],['positive'],joy,The child showed great glee when receiving the bright new toy today.,plain_narrative,short,10-22 words; simple syntax,en,qwen/qwen3-4b-2507,v9-gemma-local-strict-json,1
+49,gorgeous,['joy'],['positive'],joy,That sunset was truly gorgeous painting the sky with vibrant colors now.,plain_narrative,short,10-22 words; simple syntax,en,qwen/qwen3-4b-2507,v9-gemma-local-strict-json,1
+50,gratitude,['joy'],['positive'],joy,She showed deep gratitude when the gift arrived today.,plain_narrative,short,10-22 words; simple syntax,en,qwen/qwen3-4b-2507,v9-gemma-local-strict-json,1
+51,happily,['joy'],['positive'],joy,The child danced happily across the bright green field.,plain_narrative,short,10-22 words; simple syntax,en,qwen/qwen3-4b-2507,v9-gemma-local-strict-json,1
+52,healthful,['joy'],['positive'],joy,The fresh fruit tasted so healthful and made me very happy today.,plain_narrative,short,10-22 words; simple syntax,en,qwen/qwen3-4b-2507,v9-gemma-local-strict-json,1
+53,heartily,['joy'],['positive'],joy,She cheered heartily for her friend's wonderful achievement with great delight.,plain_narrative,short,10-22 words; simple syntax,en,qwen/qwen3-4b-2507,v9-gemma-local-strict-json,1
+54,hobby,['joy'],['positive'],joy,She found great happiness practicing her new hobby every afternoon now.,plain_narrative,short,10-22 words; simple syntax,en,qwen/qwen3-4b-2507,v9-gemma-local-strict-json,1
+55,humorous,['joy'],['positive'],joy,The funny story made everyone smile with pure delight and joy.,plain_narrative,short,10-22 words; simple syntax,en,qwen/qwen3-4b-2507,v9-gemma-local-strict-json,1
+56,hurrah,['joy'],['positive'],joy,We shouted hurrah when the team won the big game today.,plain_narrative,short,10-22 words; simple syntax,en,qwen/qwen3-4b-2507,v9-gemma-local-strict-json,1
+57,jovial,['joy'],['positive'],joy,The jovial music filled the entire party with happy sounds.,plain_narrative,short,10-22 words; simple syntax,en,qwen/qwen3-4b-2507,v9-gemma-local-strict-json,1
+58,joyous,['joy'],['positive'],joy,The bright sunshine made the whole day feel truly joyous and wonderful.,plain_narrative,short,10-22 words; simple syntax,en,qwen/qwen3-4b-2507,v9-gemma-local-strict-json,1
+59,jump,['joy'],['positive'],joy,She wanted to jump high in the air with pure joyous excitement.,plain_narrative,short,10-22 words; simple syntax,en,qwen/qwen3-4b-2507,v9-gemma-local-strict-json,1
+60,kudos,['joy'],['positive'],joy,receiving kudos brought such great happiness to the team today.,plain_narrative,short,10-22 words; simple syntax,en,qwen/qwen3-4b-2507,v9-gemma-local-strict-json,1
+61,laughing,['joy'],['positive'],joy,the sound of laughing filled the room with pure delight.,plain_narrative,short,10-22 words; simple syntax,en,qwen/qwen3-4b-2507,v9-gemma-local-strict-json,1
+62,laurels,['joy'],['positive'],joy,She proudly displayed the golden laurels after winning the competition today.,plain_narrative,short,10-22 words; simple syntax,en,qwen/qwen3-4b-2507,v9-gemma-local-strict-json,1
+63,love,['joy'],['positive'],joy,The sweet feeling of love filled her heart during the sunny afternoon.,plain_narrative,short,10-22 words; simple syntax,en,qwen/qwen3-4b-2507,v9-gemma-local-strict-json,1
+64,luster,['joy'],['positive'],joy,The polished gem showed a bright luster under the light today.,plain_narrative,short,10-22 words; simple syntax,en,qwen/qwen3-4b-2507,v9-gemma-local-strict-json,1
+65,luxurious,['joy'],['positive'],joy,We enjoyed the luxurious silk fabric draped over the chair.,plain_narrative,short,10-22 words; simple syntax,en,qwen/qwen3-4b-2507,v9-gemma-local-strict-json,1
+66,luxury,['joy'],['positive'],joy,The silk fabric felt like pure luxury on my skin today.,plain_narrative,short,10-22 words; simple syntax,en,qwen/qwen3-4b-2507,v9-gemma-local-strict-json,1
+67,lyre,['joy'],['positive'],joy,Playing the beautiful lyre brought such pure joy to the room.,plain_narrative,short,10-22 words; simple syntax,en,qwen/qwen3-4b-2507,v9-gemma-local-strict-json,1
+68,lyrical,['joy'],['positive'],joy,The sweet song had a truly lyrical melody today now.,plain_narrative,short,10-22 words; simple syntax,en,qwen/qwen3-4b-2507,v9-gemma-local-strict-json,1
+69,marvelous,['joy'],['positive'],joy,This bright sunshine feels absolutely marvelous on my face.,plain_narrative,short,10-22 words; simple syntax,en,qwen/qwen3-4b-2507,v9-gemma-local-strict-json,1
+70,massage,['joy'],['positive'],joy,The gentle massage brought such wonderful happiness to my muscles today.,plain_narrative,short,10-22 words; simple syntax,en,qwen/qwen3-4b-2507,v9-gemma-local-strict-json,1
+71,merry,['joy'],['positive'],joy,We shared a merry moment while laughing at the silly game.,plain_narrative,short,10-22 words; simple syntax,en,qwen/qwen3-4b-2507,v9-gemma-local-strict-json,1
+72,mirth,['joy'],['positive'],joy,The bright laughter brought great mirth to the whole group today.,plain_narrative,short,10-22 words; simple syntax,en,qwen/qwen3-4b-2507,v9-gemma-local-strict-json,1
+73,obtainable,['joy'],['positive'],joy,This wonderful gift is now obtainable for everyone to enjoy.,plain_narrative,short,10-22 words; simple syntax,en,qwen/qwen3-4b-2507,v9-gemma-local-strict-json,1
+74,opportune,['joy'],['positive'],joy,The opportune moment arrived for the grand celebration today now.,plain_narrative,short,10-22 words; simple syntax,en,qwen/qwen3-4b-2507,v9-gemma-local-strict-json,1
+75,overjoyed,['joy'],['positive'],joy,She was overjoyed when the surprise gift finally appeared this morning.,plain_narrative,short,10-22 words; simple syntax,en,qwen/qwen3-4b-2507,v9-gemma-local-strict-json,1
+76,pastry,['joy'],['positive'],joy,The sweet pastry brought a huge smile to my face today.,plain_narrative,short,10-22 words; simple syntax,en,qwen/qwen3-4b-2507,v9-gemma-local-strict-json,1
+77,playhouse,['joy'],['positive'],joy,We built a wonderful new playhouse for the children to explore.,plain_narrative,short,10-22 words; simple syntax,en,qwen/qwen3-4b-2507,v9-gemma-local-strict-json,1
+78,pleased,['joy'],['positive'],joy,She looked very pleased when she received the wonderful gift today.,plain_narrative,short,10-22 words; simple syntax,en,qwen/qwen3-4b-2507,v9-gemma-local-strict-json,1
+79,praised,['joy'],['positive'],joy,The team was greatly praised for their amazing performance during the game.,plain_narrative,short,10-22 words; simple syntax,en,qwen/qwen3-4b-2507,v9-gemma-local-strict-json,1
+80,pride,['joy'],['positive'],joy,She felt great pride watching her garden bloom brightly today.,plain_narrative,short,10-22 words; simple syntax,en,qwen/qwen3-4b-2507,v9-gemma-local-strict-json,1
+81,prosperous,['joy'],['positive'],joy,The family enjoyed their prosperous harvest after the long season.,plain_narrative,short,10-22 words; simple syntax,en,qwen/qwen3-4b-2507,v9-gemma-local-strict-json,1
+82,radiant,['joy'],['positive'],joy,The sun made the morning light look truly radiant today.,plain_narrative,short,10-22 words; simple syntax,en,qwen/qwen3-4b-2507,v9-gemma-local-strict-json,1
+83,revel,['joy'],['positive'],joy,We began to revel in the beautiful summer celebration now.,plain_narrative,short,10-22 words; simple syntax,en,qwen/qwen3-4b-2507,v9-gemma-local-strict-json,1
+84,revels,['joy'],['positive'],joy,The bright colors revels in the sunshine today. A happy celebration revels in the crowd's cheers.,plain_narrative,short,10-22 words; simple syntax,en,qwen/qwen3-4b-2507,v9-gemma-local-strict-json,1
+85,reverend,['joy'],['positive'],joy,The reverend spoke words that brought great joy to everyone. A joyful spirit is the reverend's gift.,plain_narrative,short,10-22 words; simple syntax,en,qwen/qwen3-4b-2507,v9-gemma-local-strict-json,1
+86,rollicking,['joy'],['positive'],joy,The children had a rollicking game in the sunny garden today.,plain_narrative,short,10-22 words; simple syntax,en,qwen/qwen3-4b-2507,v9-gemma-local-strict-json,1
+87,romp,['joy'],['positive'],joy,We watched the puppy romp happily across the green field.,plain_narrative,short,10-22 words; simple syntax,en,qwen/qwen3-4b-2507,v9-gemma-local-strict-json,1
+88,salute,['joy'],['positive'],joy,She gave a bright salute to the cheering crowd today.,plain_narrative,short,10-22 words; simple syntax,en,qwen/qwen3-4b-2507,v9-gemma-local-strict-json,1
+89,satisfied,['joy'],['positive'],joy,He felt completely satisfied after finishing the difficult project.,plain_narrative,short,10-22 words; simple syntax,en,qwen/qwen3-4b-2507,v9-gemma-local-strict-json,1
+90,sensuous,['joy'],['positive'],joy,The bright fabric felt very sensuous against my skin today.,plain_narrative,short,10-22 words; simple syntax,en,qwen/qwen3-4b-2507,v9-gemma-local-strict-json,1
+91,silly,['joy'],['negative'],joy,That funny dance was so silly and brought great happiness.,plain_narrative,short,10-22 words; simple syntax,en,qwen/qwen3-4b-2507,v9-gemma-local-strict-json,1
+92,smiling,['joy'],['positive'],joy,The child's bright smiling face lit up the whole room today.,plain_narrative,short,10-22 words; simple syntax,en,qwen/qwen3-4b-2507,v9-gemma-local-strict-json,1
+93,sonorous,['joy'],['positive'],joy,The deep sonorous sound of the bell filled the quiet hall beautifully.,plain_narrative,short,10-22 words; simple syntax,en,qwen/qwen3-4b-2507,v9-gemma-local-strict-json,1
+94,special,['joy'],['positive'],joy,This day feels truly special because of the bright light outside now.,plain_narrative,short,10-22 words; simple syntax,en,qwen/qwen3-4b-2507,v9-gemma-local-strict-json,1
+95,sunshine,['joy'],['positive'],joy,The warm sunshine makes everyone smile with great happiness today.,plain_narrative,short,10-22 words; simple syntax,en,qwen/qwen3-4b-2507,v9-gemma-local-strict-json,1
+96,thankful,['joy'],['positive'],joy,She felt thankful for the beautiful gift she received today.,plain_narrative,short,10-22 words; simple syntax,en,qwen/qwen3-4b-2507,v9-gemma-local-strict-json,1
+97,tinsel,['joy'],['positive'],joy,The bright tinsel decorated the entire Christmas tree wonderfully.,plain_narrative,short,10-22 words; simple syntax,en,qwen/qwen3-4b-2507,v9-gemma-local-strict-json,1
+98,toast,['joy'],['positive'],joy,The warm toast smelled wonderful for breakfast this morning.,plain_narrative,short,10-22 words; simple syntax,en,qwen/qwen3-4b-2507,v9-gemma-local-strict-json,1
+99,tranquil,['joy'],['positive'],joy,The calm water offered a truly tranquil view of the garden.,plain_narrative,short,10-22 words; simple syntax,en,qwen/qwen3-4b-2507,v9-gemma-local-strict-json,1
